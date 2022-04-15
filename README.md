@@ -87,8 +87,8 @@
 |  | Figures | Link | 
 | --- | --- | --- |
 | The dot plots compare the changes of motif associated chromatin accessibility estimated by chromVAR (x-axis) and the difference of the percent of TFBS with decreased or increased chromatin accessibility estimated by SeATAC | Supplementary Figure 5a | |
-| The barplots show the genomic distribution of Ascl1 binding sites with decreased (NFR->NOR) or increased (NOR->NFR) chromatin accessibility in MEF reprogramming. | Figure 5b | |
-| The aggregated V-plot include 24,098 and 7,071 Ascl1 binding sites that have increased (NOR->NFR) or decreased (NFR->NOR) chromatin accessibility during MEF reprograming. | Figure 5c | |
+| The barplots show the genomic distribution of Ascl1 binding sites with decreased (NFR->NOR) or increased (NOR->NFR) chromatin accessibility in MEF reprogramming. | Supplementary Figure 5b | |
+| The aggregated V-plot include 24,098 and 7,071 Ascl1 binding sites that have increased (NOR->NFR) or decreased (NFR->NOR) chromatin accessibility during MEF reprograming. | Supplementary Figure 5c | |
 | The heatmaps show the MNase-seq, H3K27m3, H3K36m3, H3K9ac, H3K79me2, H3K4me2, H3K4me1 and P300 ChIP-seq signals in undifferentiated MEFs of 24,098 and 7,071 Ascl1 binding sites that have increased (NOR->NFR) or decreased (NFR->NOR) chromatin accessibility during the MEF reprogramming. | Supplementary Figure 5d | |
 | The V-plot show Ascl1 motifs with decreased chromatin accessibility at the promoters (-5,000 - +1,000bp region flanking the TSS) of four genes (Hmga2, Elf4, Egfr and Hes1) that are down-regulated during the Ascl1 induced MEF reprogramming. | Supplementary Figure 5e | |
 
