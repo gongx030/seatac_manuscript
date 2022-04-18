@@ -32,9 +32,9 @@ Nikita Dsouza, Wuming Gong and Daniel J. Garry
 ### Figure 4
 |  | Figures | Link | 
 | --- | --- | --- | 
-| The ROC curve for detecting nucleosome changes from ATAC-seq with 10% of the sequencing reads from the full dataset (GM12878). | Figure 4a | |
-| The raw and estimated V-plot of a NFR (chr1:113162059-113162698) and a NOR (chr2:226653061-226653700) region are shown | Figure 4b | |
-| The heatmaps show the nucleosome density of ~5,000 sampled NOR and NFR regions estimated by SeATAC & NucleoATAC  on a 10% down-sampled dataset and NucleoATAC signal on the full dataset (black) & a MNase-seq dataset on GM12878. |  Figure 4c | |
+| The ROC curve for detecting nucleosome changes from ATAC-seq with 10% of the sequencing reads from the full dataset (GM12878). | Figure 4a | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/GM12878_diff_nuc_f4ac.ipynb) |
+| The raw and estimated V-plot of a NFR (chr1:113162059-113162698) and a NOR (chr2:226653061-226653700) region are shown | Figure 4b | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/GM12878_diff_nuc_f4ac.ipynb) |
+| The heatmaps show the nucleosome density of ~5,000 sampled NOR and NFR regions estimated by SeATAC & NucleoATAC  on a 10% down-sampled dataset and NucleoATAC signal on the full dataset (black) & a MNase-seq dataset on GM12878. |  Figure 4c | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/GM12878_diff_nuc_f4ac.ipynb) |
 
 ### Figure 5
 |  | Figures | Link | 
