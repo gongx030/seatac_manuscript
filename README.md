@@ -26,8 +26,8 @@ Nikita Dsouza, Wuming Gong and Daniel J. Garry
 ### Figure 3
 |  | Figures | Link | 
 | --- | --- | --- | 
-|  The ROC curve for recovering nucleosome positions from ATAC-seq with 0.1%, 1% and 10% of the sequencing reads randomly sampled from the full dataset (GM12878). | Figure 3a | |
-| The heatmaps shows the nucleosome density estimated by SeATAC (blue) and NucleoATAC (purple) on a 1% down-sampled dataset. | Figure 3b | |
+|  The ROC curve for recovering nucleosome positions from ATAC-seq with 0.1%, 1% and 10% of the sequencing reads randomly sampled from the full dataset (GM12878). | Figure 3a | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/GM12878_nucleosome_calling_f3%20.ipynb) |
+| The heatmaps shows the nucleosome density estimated by SeATAC (blue) and NucleoATAC (purple) on a 1% down-sampled dataset. | Figure 3b | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/GM12878_nucleosome_calling_f3%20.ipynb) |
 
 ### Figure 4
 |  | Figures | Link | 
