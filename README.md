@@ -10,8 +10,8 @@ Nikita Dsouza, Wuming Gong and Daniel J. Garry
 
 |  | Figures | Link | 
 | --- | --- | --- | 
-|  A full V-plot has a width of 640 bp genomic region and a height of 640 bp of fragment sizes. An array of 5 x 10 pixels are aggregated together and become a single larger pixel, resulting in a 128 x 64 pixels image. | Figure 1a | |
-| SeATAC models the ATAC-seq V-plot using a conditional variational autoencoder (CVAE) framework. | Figure 1b | |
+|  A full V-plot has a width of 640 bp genomic region and a height of 640 bp of fragment sizes. An array of 5 x 10 pixels are aggregated together and become a single larger pixel, resulting in a 128 x 64 pixels image. | Figure 1a | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/Vplot_demo_1a.ipynb) |
+| SeATAC models the ATAC-seq V-plot using a conditional variational autoencoder (CVAE) framework. | Figure 1b | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/Vplot_demo_1a.ipynb) |
 | Four separate tasks for evaluating the performance of detecting chromatin accessibility changes. | Figure 1c | |
 
 
