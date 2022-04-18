@@ -39,21 +39,21 @@ Nikita Dsouza, Wuming Gong and Daniel J. Garry
 ### Figure 5
 |  | Figures | Link | 
 | --- | --- | --- | 
-| The Venn diagrams show the number of Etv2 motifs with increased chromatin accessibility identified by SeATAC, MACS2 and NucleoATAC Etv2 induced MEF. | Figure 5a | |
-| The Venn diagrams show the number of Etv2 motifs with increased chromatin accessibility identified by SeATAC, MACS2 and NucleoATAC Etv2 induced EB differentiation | Figure 5b | |
-| The aggregated V-plot includes 1,626, 222 and 2,305 Etv2 motifs with increased chromatin accessibility identified by SeATAC only, MACS2 only and NucleoATAC only in ATAC-seq data of Etv2 induced EB differentiation | Figure 5c | |
-|  The barplots show the Gene Ontology (GO) terms that are significantly associated with the genes which promoters (-5,000 - +1,000bp region flanking the TSS) have Etv2 motifs with increased chromatin accessibility, identified by SeATAC, MACS2 and NucleoATAC. | Figure 5d | |
+| The Venn diagrams show the number of Etv2 motifs with increased chromatin accessibility identified by SeATAC, MACS2 and NucleoATAC Etv2 induced MEF. | Figure 5a | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/Etv2_MEF_EB_Etv2_v1.ipynb/SeATAC_Etv2_MEF_and_EB_v0_4_0_pathway_analysis_f5.ipynb) |
+| The Venn diagrams show the number of Etv2 motifs with increased chromatin accessibility identified by SeATAC, MACS2 and NucleoATAC Etv2 induced EB differentiation | Figure 5b | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/Etv2_MEF_EB_Etv2_v1.ipynb/SeATAC_Etv2_MEF_and_EB_v0_4_0_pathway_analysis_f5.ipynb) |
+| The aggregated V-plot includes 1,626, 222 and 2,305 Etv2 motifs with increased chromatin accessibility identified by SeATAC only, MACS2 only and NucleoATAC only in ATAC-seq data of Etv2 induced EB differentiation | Figure 5c | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/Etv2_MEF_EB_Etv2_v1.ipynb/SeATAC_Etv2_EB_v0_4_0_Vplots_for_and_EBs_Figure.ipynb) |
+|  The barplots show the Gene Ontology (GO) terms that are significantly associated with the genes which promoters (-5,000 - +1,000bp region flanking the TSS) have Etv2 motifs with increased chromatin accessibility, identified by SeATAC, MACS2 and NucleoATAC. | Figure 5d | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/Etv2_MEF_EB_Etv2_v1.ipynb/SeATAC_Etv2_MEF_and_EB_v0_4_0_pathway_analysis_f5.ipyn)b |
 
 ### Figure 6
 |  | Figures | Link | 
 | --- | --- | --- | 
-| Dot plots comparing the changes of motif associated chromatin accessibility estimated by chromVAR (x-axis) and the difference of the percent of TFBS with decreased or increased chromatin accessibility estimated by SeATAC. | Figure 6a | |
-| The barplots show the genomic distribution of Etv2 binding sites with decreased (NFR->NOR) or increased (NOR->NFR) chromatin accessibility in EB differentiation or MEF reprogramming. | Figure 6b | |
-| The aggregated V-plot include 3,000 and 1,623 Etv2 binding sites that have increased (NOR->NFR) or decreased (NFR->NOR) chromatin accessibility during MEF reprograming. | Figure 6c | |
-| The heatmaps showing Etv2, Brg1, H3K27ac ChIP-seq of 3,000 and 1,623 Etv2 binding sites that have increased (NOR->NFR) or decreased (NFR->NOR) chromatin accessibility at day 2.5 EB (Brg1 and H3K27ac), 3 hours post Etv2 induction (Etv2), and 12 hours post Etv2 induction (Etv2, Brg1 and H3K27ac). | Figure 6d | |
-| The barplots show the percent of genes that were down-regulated, up-regulated or not changed between day 2.5 EB and 12 hours post Etv2 induction. | Figure 6e | |
-| Brachyury (T) and Mycn are significantly down-regulated during the Etv2 induced differentiation. | Fgure 6f | |
-| Brachyury (T) and Mycn (f) have Etv2 motifs that become significantly less accessible during the differentiation at their promoter region (-5,000 - +1,000bp region flanking the TSS) | Figure 6g | |
+| Dot plots comparing the changes of motif associated chromatin accessibility estimated by chromVAR (x-axis) and the difference of the percent of TFBS with decreased or increased chromatin accessibility estimated by SeATAC. | Figure 6a | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/Etv2_MEF_EB_Etv2_v1.ipynb/Etv2_MEF_EB_motifs.ipynb) |
+| The barplots show the genomic distribution of Etv2 binding sites with decreased (NFR->NOR) or increased (NOR->NFR) chromatin accessibility in EB differentiation or MEF reprogramming. | Figure 6b | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/Etv2_MEF_EB_Etv2_v1.ipynb/Etv2_MEF_EB_Etv2_v1.ipynb) |
+| The aggregated V-plot include 3,000 and 1,623 Etv2 binding sites that have increased (NOR->NFR) or decreased (NFR->NOR) chromatin accessibility during MEF reprograming. | Figure 6c | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/Etv2_MEF_EB_Etv2_v1.ipynb/Etv2_MEF_EB_Etv2_v1.ipynb) |
+| The heatmaps showing Etv2, Brg1, H3K27ac ChIP-seq of 3,000 and 1,623 Etv2 binding sites that have increased (NOR->NFR) or decreased (NFR->NOR) chromatin accessibility at day 2.5 EB (Brg1 and H3K27ac), 3 hours post Etv2 induction (Etv2), and 12 hours post Etv2 induction (Etv2, Brg1 and H3K27ac). | Figure 6d | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/Etv2_MEF_EB_Etv2_v1.ipynb/Etv2_MEF_EB_Etv2_v1.ipynb) |
+| The barplots show the percent of genes that were down-regulated, up-regulated or not changed between day 2.5 EB and 12 hours post Etv2 induction. | Figure 6e | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/Etv2_MEF_EB_Etv2_v1.ipynb/EB_RNA_and_NOR_NFR_f6ef.ipynb) |
+| Brachyury (T) and Mycn are significantly down-regulated during the Etv2 induced differentiation. | Fgure 6f | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/Etv2_MEF_EB_Etv2_v1.ipynb/Vplots_for_and_EBs_specific_genes.ipynb) |
+| Brachyury (T) and Mycn (f) have Etv2 motifs that become significantly less accessible during the differentiation at their promoter region (-5,000 - +1,000bp region flanking the TSS) | Figure 6g | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/Etv2_MEF_EB_Etv2_v1.ipynb/EB_RNA_and_NOR_NFR_f6ef.ipynb) |
 
 ## Supplementary Figure
 
