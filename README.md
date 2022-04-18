@@ -68,7 +68,7 @@ Nikita Dsouza, Wuming Gong and Daniel J. Garry
 | --- | --- | --- |
 | The aggregated V-plot includes 2,776, 116 and 1,449 Etv2 motifs with increased chromatin accessibility identified by SeATAC only, MACS2 only and NucleoATAC only in ATAC-seq data of Etv2 induced MEF reprogramming | Supplementary Figure 2a | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/SeATAC_Etv2_MEF_v0_4_0_Vplots_for_and_MEFs_Figure.ipynb) |
 | The heatmaps show the Etv2, Brg1, H3K27ac ChIP-seq of 3,996 and 1,307 Etv2 binding sites that have increased (NOR->NFR) or decreased (NFR->NOR) chromatin accessibility at undifferentiated MEFs (Brg1 and H3K27ac), 1 day post-Etv2 induction (Etv2), and 7 days post-Etv2 induction (Etv2, Brg1 and H3K27ac). | Supplementary Figure 2b | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/Etv2_MEF_EB_Etv2_v1.ipynb)| 
-| The UCSC genome browser track show the ATAC-seq density near the Etv2 motifs at the promoters of Brachyury (T) and Mycn. | Supplementary Figure 2c | |
+| The UCSC genome browser track show the ATAC-seq density near the Etv2 motifs at the promoters of Brachyury (T) and Mycn. | Supplementary Figure 2c | [T](https://genome.ucsc.edu/s/ndsouza/T_new) <br> [Mycn](https://genome.ucsc.edu/s/ndsouza/Mycn_new) |
 
 ### Supplementary Figure 3
 |  | Figures | Link | 
