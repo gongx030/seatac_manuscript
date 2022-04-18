@@ -20,7 +20,7 @@ Nikita Dsouza, Wuming Gong and Daniel J. Garry
 | --- | --- | --- | 
 |  SeATAC detects differential V-plots. | Figure 2a | |
 | Different tools are used to compare dataset #1 vs. dataset #2, and dataset #1 vs. dataset #3 to detect differential V-plots. | Figure 2b | |
-| The ROC curves for SeATAC, NucleoATAC and MACS2 for four different shift sizes: 10, 20, 50 and 100 bp are shown | Figure 2c | |
+| The ROC curves for SeATAC, NucleoATAC and MACS2 for four different shift sizes: 10, 20, 50 and 100 bp are shown | Figure 2c | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/GM12878_SeATAC_MACS2_compare_v2.ipynb) |
 
 
 ### Figure 3
