@@ -61,7 +61,7 @@ Nikita Dsouza, Wuming Gong and Daniel J. Garry
 ### Supplementary Figure 1
 |  | Figures | Link | 
 | --- | --- | --- |
-| The density plots show the observed (red) and corrected (green) fragment size distribution of 13 samples from a human hematopoietic differentiation ATAC-seq data (GSE96771). | Supplementary Figure 1a | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/SeATAC_corrects_batch_effects_sf1.ipynb) |
+| The density plots show the observed (red) and corrected (green) fragment size distribution of 13 samples from a human hematopoietic differentiation ATAC-seq data (GSE96771). | Supplementary Figure 1a | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/SeATAC_corrects_batch_effects_sf1.ipynb) |
 
 ### Supplementary Figure 2
 |  | Figures | Link | 
