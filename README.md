@@ -31,9 +31,11 @@ Nikita Dsouza, Wuming Gong and Daniel J. Garry
 ### Figure 4
 |  | Figures | Link | 
 | --- | --- | --- | 
-| The ROC curve for detecting nucleosome changes from ATAC-seq with 10% of the sequencing reads from the full dataset (GM12878). | Figure 4a | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/GM12878_diff_nuc_f4ac.ipynb) |
-| The raw and estimated V-plot of a NFR (chr1:113162059-113162698) and a NOR (chr2:226653061-226653700) region are shown | Figure 4b | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/GM12878_diff_nuc_f4ac.ipynb) |
-| The heatmaps show the nucleosome density of ~5,000 sampled NOR and NFR regions estimated by SeATAC & NucleoATAC  on a 10% down-sampled dataset and NucleoATAC signal on the full dataset (black) & a MNase-seq dataset on GM12878. |  Figure 4c | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/GM12878_diff_nuc_f4ac.ipynb) |
+| The ROC curve for detecting nucleosome changes from ATAC-seq with 10% of the sequencing reads from the full dataset (GM12878). | Figure 4a | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/GM12878_diff_nuc_f4ac.ipynb) |
+| The raw and estimated V-plot of a NFR (chr1:113162059-113162698) and a NOR (chr2:226653061-226653700) region are shown | Figure 4b | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/GM12878_diff_nuc_f4ac.ipynb) |
+| The heatmaps show the nucleosome density of ~5,000 sampled NOR and NFR regions estimated by SeATAC & NucleoATAC  on a 10% down-sampled dataset and NucleoATAC signal on the full dataset (black) & a MNase-seq dataset on GM12878. |  Figure 4c | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/GM12878_diff_nuc_f4ac.ipynb) |
+| The violin plot shows the AUC (area under ROC) of SeATAC and NucleoATAC on 523 ATAC-seq samples from 20 studies. *** Wilcoxon rank sum test p-value < 0.001. |  Figure 4d | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/summarize_comp.ipynb) |
+| The AUC of SeATAC and NucleoATAC at different read counts cutoff from 1 to 20 (the minimum reads in a V-plot). |  Figure 4e | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/summarize_comp.ipynb) |
 
 ### Figure 5
 |  | Figures | Link | 
