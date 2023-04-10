@@ -1,7 +1,10 @@
 ## SeATAC: A tool for exploring the chromatin landscape and the role of pioneer factors
 
-Nikita Dsouza, Wuming Gong and Daniel J. Garry
+Wuming Gong, Nikita Dsouza and Daniel J. Garry
 
+## Abstract
+
+Assay for Transposase-Accessible Chromatin with sequencing (ATAC-seq) reveals chromatin accessibility across the genome. Currently no method specifically detects differential chromatin accessibility. Here, SeATAC uses a conditional variational autoencoder model to learn the latent representation of ATAC-seq V-plots and outperforms MACS2 and NucleoATAC on six separate tasks. Applying SeATAC to several pioneer factor induced differentiation or reprogramming ATAC-seq datasets suggests that induction of these factors not only relaxes the closed chromatin but also decreases chromatin accessibility of 20% to 30% of their target sites. SeATAC is a novel tool to accurately reveal genomic regions with differential chromatin accessibility from ATAC-seq data. SeATAC is available at https://github.com/gongx030/seatac as an R package. The preprint can be found at [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.04.25.489439v1).  
 
 ## Main Figures
 
@@ -126,3 +129,10 @@ Nikita Dsouza, Wuming Gong and Daniel J. Garry
 | The barplots show the percent of genes that were down-regulated, up-regulated or not changed between undifferentiated MEFs and 7 hours post OSK induction. | Figure S10e | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/OSK_RNA_and_NOR_NFR_sf6ef.ipynb) |
 | Maf and Smad3 are significantly down-regulated during the OSK induced MEF reprogramming. | Figure S10f | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/OSK_RNA_and_NOR_NFR_sf6ef.ipynb)  |
 | Maf and Smad3 have OSK motifs that become significantly less accessible during the differentiation at their promoter region (-5,000 - +1,000bp region flanking the TSS). | Figure S10g | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/SeATAC_OSK_MEFs_D7_specific_genes_sf6g.ipynb) |
+
+### Figure S11
+|  | Figures | Link | 
+| --- | --- | --- |
+| Example regions with significantly increased chromatin accessibility from undifferentiated MEFs to D7 Flk1+ samples. (f-j) Example regions with significantly decreased chromatin accessibility from undifferentiated MEFs to D7 Flk1+ samples. | Figure S11a-j | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/Etv2_MEF_histone.ipynb) |
+
+
