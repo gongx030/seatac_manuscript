@@ -55,7 +55,7 @@ Nikita Dsouza, Wuming Gong and Daniel J. Garry
 | Brachyury (T) and Mycn are significantly down-regulated during the Etv2 induced differentiation. | Fgure 6f | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/EB_RNA_and_NOR_NFR_f6ef.ipynb) |
 | Brachyury (T) and Mycn (f) have Etv2 motifs that become significantly less accessible during the differentiation at their promoter region (-5,000 - +1,000bp region flanking the TSS) | Figure 6g | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/Vplots_for_and_EBs_specific_genes.ipynb) |
 
-## Supplementary Figure
+## Supplementary Figures
 
 
 ### Figure S1
@@ -72,6 +72,12 @@ Nikita Dsouza, Wuming Gong and Daniel J. Garry
 |  | Figures | Link | 
 | --- | --- | --- |
 | The plots show the AUC (area under ROC) of SeATAC on 523 ATAC-seq samples from 20 studies at (a) total read counts (Total QNAMEs), (b) mitochondria rate, (c) proper pair rate, (d) unmapped rate, (e) has unmapped mate rate, (f) non-redundant fraction, (g) PCR bottleneck coefficient 1, and (h) PCR bottleneck coefficient 2. | Figure S3a-h | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/summarize_comp.ipynb) |
+
+### Figure S4
+|  | Figures | Link | 
+| --- | --- | --- |
+| The area under ROC (AUC) of three tools, SeATAC, NucleoATAC and MACS2 on the regions over promoter region (column wise) and latent dimensions (row wise). | Figure S4b | [R](https://github.com/gongx030/seatac_manuscript/blob/main/notebooks/pa_summary.ipynb) |
+| The area under ROC (AUC) of three tools on 17 paired RNA-seq / ATAC-seq datasets. | Figure S4c | [R](https://github.com/gongx030/seatac_manuscript/blob/main/notebooks/pa_summary.ipynb) |
 
 
 ### Supplementary Figure 2
