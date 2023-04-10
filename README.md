@@ -93,12 +93,12 @@ Nikita Dsouza, Wuming Gong and Daniel J. Garry
 | The heatmaps show the Etv2, Brg1, H3K27ac ChIP-seq of 3,996 and 1,307 Etv2 binding sites that have increased (NOR->NFR) or decreased (NFR->NOR) chromatin accessibility at undifferentiated MEFs (Brg1 and H3K27ac), 1 day post-Etv2 induction (Etv2), and 7 days post-Etv2 induction (Etv2, Brg1 and H3K27ac). | Figure S6b | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/Etv2_MEF_EB_Etv2_v1.ipynb)| 
 | The UCSC genome browser track show the ATAC-seq density near the Etv2 motifs at the promoters of Brachyury (T) and Mycn. | Figure S6c | [T](https://genome.ucsc.edu/s/ndsouza/T_new) <br> [Mycn](https://genome.ucsc.edu/s/ndsouza/Mycn_new) |
 
-### Supplementary Figure 3
+### Figure S7
 |  | Figures | Link | 
 | --- | --- | --- |
-| The Venn diagrams show the number of Ascl1 motifs with increased chromatin accessibility identified by SeATAC, MACS2 and NucleoATAC. | Supplementary Figure 3a | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/SeATAC_Ascl1_MEFs_D22_analysis_sf3.ipynb) |
-| The barplots show the Gene Ontology (GO) terms that are significantly associated with the genes which promoters (-5,000 - +1,000bp region flanking the TSS) have Ascl1 motifs with increased chromatin accessibility, identified by SeATAC, MACS2 and NucleoATAC.  | Supplementary Figure 3b | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/SeATAC_Ascl1_MEFs_D22_analysis_sf3.ipynb) |
-| The aggregated V-plot includes 8,658, 7,687 and 7,708 Ascl1 motifs with increased chromatin accessibility identified by SeATAC only, MACS2 only and NucleoATAC only in ATAC-seq data of Ascl1 induced MEF reprogramming (undifferentiated MEFs vs. 22 days post Ascl1 induction). | Supplementary Figure 3c |  [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/SeATAC_Ascl1_MEFs_D22_analysis_sf3.ipynb) |
+| The Venn diagrams show the number of Ascl1 motifs with increased chromatin accessibility identified by SeATAC, MACS2 and NucleoATAC. | Figure S7a | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/SeATAC_Ascl1_MEFs_D22_analysis_sf3.ipynb) |
+| The barplots show the Gene Ontology (GO) terms that are significantly associated with the genes which promoters (-5,000 - +1,000bp region flanking the TSS) have Ascl1 motifs with increased chromatin accessibility, identified by SeATAC, MACS2 and NucleoATAC.  | Figure S7b | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/SeATAC_Ascl1_MEFs_D22_analysis_sf3.ipynb) |
+| The aggregated V-plot includes 8,658, 7,687 and 7,708 Ascl1 motifs with increased chromatin accessibility identified by SeATAC only, MACS2 only and NucleoATAC only in ATAC-seq data of Ascl1 induced MEF reprogramming (undifferentiated MEFs vs. 22 days post Ascl1 induction). | Figure S7c |  [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/SeATAC_Ascl1_MEFs_D22_analysis_sf3.ipynb) |
 
 ### Supplementary Figure 4
 |  | Figures | Link | 
