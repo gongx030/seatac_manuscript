@@ -24,6 +24,9 @@ Nikita Dsouza, Wuming Gong and Daniel J. Garry
 | --- | --- | --- | 
 |  The ROC curve for recovering nucleosome positions from ATAC-seq with 0.1%, 1% and 10% of the sequencing reads randomly sampled from the full dataset (GM12878). | Figure 3a | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/GM12878_nucleosome_calling_f3%20.ipynb) |
 | The heatmaps shows the nucleosome density estimated by SeATAC (blue) and NucleoATAC (purple) on a 1% down-sampled dataset. | Figure 3b | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/GM12878_nucleosome_calling_f3%20.ipynb) |
+| The violin plot shows the AUC (area under ROC) of SeATAC and NucleoATAC on 523 ATAC-seq samples from 20 studies. *** Wilcoxon rank sum test p-value < 0.001. | Figure 3c | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/summarize_comp.ipynb) |
+| The AUC of SeATAC and NucleoATAC at different read counts cutoff from 1 to 20 (the minimum reads in a V-plot). | Figure 3d | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/summarize_comp.ipynb) |
+
 
 ### Figure 4
 |  | Figures | Link | 
