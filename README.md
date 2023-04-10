@@ -58,10 +58,21 @@ Nikita Dsouza, Wuming Gong and Daniel J. Garry
 ## Supplementary Figure
 
 
-### Supplementary Figure 1
+### Figure S1
 |  | Figures | Link | 
 | --- | --- | --- |
-| The density plots show the observed (red) and corrected (green) fragment size distribution of 13 samples from a human hematopoietic differentiation ATAC-seq data (GSE96771). | Supplementary Figure 1a | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/SeATAC_corrects_batch_effects_sf1.ipynb) |
+| The density plots show the observed (red) and corrected (green) fragment size distribution of 13 samples from a human hematopoietic differentiation ATAC-seq data (GSE96771). | Figure S1a | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/SeATAC_corrects_batch_effects_sf1.ipynb) |
+
+### Figure S2
+|  | Figures | Link | 
+| --- | --- | --- |
+| The plot shows the AUC of SeATAC, NucleoATAC and MACS2 at different shift sizes (from 10 to 100) used to generate the synthetic data for evaluating task #1. | Figure S2a | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/seatac_GM12878_task1.ipynb) |
+
+### Figure S3
+|  | Figures | Link | 
+| --- | --- | --- |
+| The plots show the AUC (area under ROC) of SeATAC on 523 ATAC-seq samples from 20 studies at (a) total read counts (Total QNAMEs), (b) mitochondria rate, (c) proper pair rate, (d) unmapped rate, (e) has unmapped mate rate, (f) non-redundant fraction, (g) PCR bottleneck coefficient 1, and (h) PCR bottleneck coefficient 2. | Figure S3a-h | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/summarize_comp.ipynb) |
+
 
 ### Supplementary Figure 2
 |  | Figures | Link | 
