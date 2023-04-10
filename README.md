@@ -27,7 +27,6 @@ Nikita Dsouza, Wuming Gong and Daniel J. Garry
 | The violin plot shows the AUC (area under ROC) of SeATAC and NucleoATAC on 523 ATAC-seq samples from 20 studies. *** Wilcoxon rank sum test p-value < 0.001. | Figure 3c | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/summarize_comp.ipynb) |
 | The AUC of SeATAC and NucleoATAC at different read counts cutoff from 1 to 20 (the minimum reads in a V-plot). | Figure 3d | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/summarize_comp.ipynb) |
 
-
 ### Figure 4
 |  | Figures | Link | 
 | --- | --- | --- | 
@@ -40,10 +39,10 @@ Nikita Dsouza, Wuming Gong and Daniel J. Garry
 ### Figure 5
 |  | Figures | Link | 
 | --- | --- | --- | 
-| The Venn diagrams show the number of Etv2 motifs with increased chromatin accessibility identified by SeATAC, MACS2 and NucleoATAC Etv2 induced MEF. | Figure 5a | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/SeATAC_Etv2_MEF_and_EB_v0_4_0_pathway_analysis_f5.ipynb) |
-| The Venn diagrams show the number of Etv2 motifs with increased chromatin accessibility identified by SeATAC, MACS2 and NucleoATAC Etv2 induced EB differentiation | Figure 5b | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/SeATAC_Etv2_MEF_and_EB_v0_4_0_pathway_analysis_f5.ipynb) |
-| The aggregated V-plot includes 1,626, 222 and 2,305 Etv2 motifs with increased chromatin accessibility identified by SeATAC only, MACS2 only and NucleoATAC only in ATAC-seq data of Etv2 induced EB differentiation | Figure 5c | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/SeATAC_Etv2_EB_v0_4_0_Vplots_for_and_EBs_Figure.ipynb) |
-|  The barplots show the Gene Ontology (GO) terms that are significantly associated with the genes which promoters (-5,000 - +1,000bp region flanking the TSS) have Etv2 motifs with increased chromatin accessibility, identified by SeATAC, MACS2 and NucleoATAC. | Figure 5d | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/SeATAC_Etv2_MEF_and_EB_v0_4_0_pathway_analysis_f5.ipynb) |
+| The Venn diagrams show the number of Etv2 motifs with increased chromatin accessibility identified by SeATAC, MACS2 and NucleoATAC Etv2 induced MEF. | Figure 5a | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/SeATAC_Etv2_MEF_and_EB_v0_4_0_pathway_analysis_f5.ipynb) |
+| The Venn diagrams show the number of Etv2 motifs with increased chromatin accessibility identified by SeATAC, MACS2 and NucleoATAC Etv2 induced EB differentiation | Figure 5b | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/SeATAC_Etv2_MEF_and_EB_v0_4_0_pathway_analysis_f5.ipynb) |
+| The aggregated V-plot includes 1,626, 222 and 2,305 Etv2 motifs with increased chromatin accessibility identified by SeATAC only, MACS2 only and NucleoATAC only in ATAC-seq data of Etv2 induced EB differentiation | Figure 5c | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/SeATAC_Etv2_EB_v0_4_0_Vplots_for_and_EBs_Figure.ipynb) |
+|  The barplots show the Gene Ontology (GO) terms that are significantly associated with the genes which promoters (-5,000 - +1,000bp region flanking the TSS) have Etv2 motifs with increased chromatin accessibility, identified by SeATAC, MACS2 and NucleoATAC. | Figure 5d | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/SeATAC_Etv2_MEF_and_EB_v0_4_0_pathway_analysis_f5.ipynb) |
 
 ### Figure 6
 |  | Figures | Link | 
