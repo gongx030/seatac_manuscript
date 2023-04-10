@@ -79,6 +79,12 @@ Nikita Dsouza, Wuming Gong and Daniel J. Garry
 | The area under ROC (AUC) of three tools, SeATAC, NucleoATAC and MACS2 on the regions over promoter region (column wise) and latent dimensions (row wise). | Figure S4b | [R](https://github.com/gongx030/seatac_manuscript/blob/main/notebooks/pa_summary.ipynb) |
 | The area under ROC (AUC) of three tools on 17 paired RNA-seq / ATAC-seq datasets. | Figure S4c | [R](https://github.com/gongx030/seatac_manuscript/blob/main/notebooks/pa_summary.ipynb) |
 
+### Figure S5
+|  | Figures | Link | 
+| --- | --- | --- |
+| The aggregated V-plot includes: 728 and 1,633 NFKB1 binding sites with increased chromatin accessibility in GM12878 compared with K562 at distal and promoter regions, respectively. The heatmap color indicates the estimated read density. | Figure S5a | [R](https://github.com/gongx030/seatac_manuscript/blob/main/notebooks/K562_vs_GM12878.ipynb) |
+| The line plots include: mean signal of H3K27ac, h3K4me1, H3K4me3 signals of 728 and 1,633 NFKB1 binding sites with increased chromatin accessibility in GM12878 compared with K562 at distal and promoter regions. | Figure S5b | [R](https://github.com/gongx030/seatac_manuscript/blob/main/notebooks/K562_vs_GM12878.ipynb) |
+| The mean squared error of observed and predicted histone modification signals. | Figure S5d | [R](https://github.com/gongx030/seatac_manuscript/blob/main/notebooks/pred_histone_bs640_k10.ipynb) |
 
 ### Supplementary Figure 2
 |  | Figures | Link | 
