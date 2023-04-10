@@ -16,7 +16,8 @@ Nikita Dsouza, Wuming Gong and Daniel J. Garry
 |  | Figures | Link | 
 | --- | --- | --- | 
 | The ROC curves for SeATAC, NucleoATAC and MACS2 with a shift size of 50 bp.| Figure 2c | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/seatac_GM12878_task1.ipynb) |
-
+| The violin plot shows the AUC (area under ROC) of SeATAC, NucleoATAC and MACS2 on 523 ATAC-seq samples from 20 studies. *** Wilcoxon rank sum test p-value < 0.001. | Figure 2d | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/summarize_comp.ipynb) |
+| The AUC of SeATAC, NucleoATAC and MACS2 at different read counts cutoff from 1 to 20 (the minimum reads in a V-plot).| Figure 2e | [R](https://colab.research.google.com/github/gongx030/seatac_manuscript/blob/main/notebooks/summarize_comp.ipynb) |
 
 ### Figure 3
 |  | Figures | Link | 
